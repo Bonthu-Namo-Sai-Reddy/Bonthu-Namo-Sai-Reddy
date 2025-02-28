@@ -1,14 +1,15 @@
 - 👋 Hi, I’m @Bonthu-Namo-Sai-Reddy
 
 
-
+ 
 <h1 align="center">Hey, Great to See You Here! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=3498db&lines=VLSI Aspirant+%26+.;Pre-Final+Year+ECE+Undergraduate;Passionate+About+Chip+Design+%26+Verification;Exploring+Spintronics+%26+Digital+VLSI" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=3498db&center=true&vCenter=true&lines=VLSI+Aspirant;Pre-Final+Year+ECE+Undergraduate;Passionate+About+Chip+Design+and+Verification;Exploring+Spintronics+and+Digital+VLSI" />
 </p>
-
 ---
+
+
 
 ### 🚀 About Me
 - 🎓 Pre-final Year Undergraduate in **Electronics & Communication Engineering** at **KL University, Hyderabad**  
