@@ -5,10 +5,7 @@
 <h1 align="center">Hey, Great to See You Here! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=3498db&center=true&vCenter=true&lines=VLSI+Aspirant" /><br>
-  <img src="https://readme-typing-svg.herokuapp.com?color=3498db&center=true&vCenter=true&lines=ECE+Pre-Final+Year+Graduate" /><br>
-  <img src="https://readme-typing-svg.herokuapp.com?color=3498db&center=true&vCenter=true&lines=Passionate+About+Chip+Design+%26+Verification" /><br>
-  <img src="https://readme-typing-svg.herokuapp.com?color=3498db&center=true&vCenter=true&lines=Exploring+Spintronics+%26+Digital+VLSI" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=3498db&center=true&vCenter=true&width=500&lines=VLSI+Aspirant;ECE+Pre-Final+Year+Student;Passionate+About+Chip+Design;Exploring+Spintronics&pause=1000" />
 </p>
 
 
