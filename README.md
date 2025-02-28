@@ -5,7 +5,7 @@
 <h1 align="center">Hey, Great to See You Here! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=3498db&lines=Electronics+%26+VLSI+Enthusiast;Pre-Final+Year+ECE+Undergrad;Passionate+about+Nanoelectronics+%26+Semiconductors;Exploring+Spintronics+%26+Digital+VLSI" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=3498db&lines=Electronics+%26+VLSI+Enthusiast;Pre-Final+Year+ECE+Undergraduate;Passionate+about+Nanoelectronics+%26+Semiconductors;Exploring+Spintronics+%26+Digital+VLSI" />
 </p>
 
 ---
@@ -26,22 +26,6 @@
 - **EDA Tools:** Cadence Virtuoso, Vivado 2024.1, LTSpice, EasyEDA  
 - **Microcontrollers:** Arduino UNO, ESP32, MSP430  
 - **Software Tools:** MATLAB, Scilab, NI Multisim, Proteus, Cisco Packet Tracer  
-
----
-
-### 📚 Academic Projects  
-- **Comparative Analysis of a 4:1 MUX using Spintronic Devices** 🌀  
-- **Hybrid ATPG Compression for Efficient Test Data Reduction** ⚡  
-- **Dual-Axis Solar Tracking using ESP32** ☀️  
-- **Water Quality Monitoring System using ESP32** 💧  
-
----
-
-### 📜 Certifications  
-- **AWS Certified Cloud Practitioner**  
-- **Microsoft Certified: Azure AI Fundamentals**  
-- **Automation Anywhere Certified Advanced Automation Professional**  
-- **VLSI Design & Verification by Taras Systems**  
 
 ---
 
