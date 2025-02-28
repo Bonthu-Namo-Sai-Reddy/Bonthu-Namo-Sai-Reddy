@@ -5,7 +5,7 @@
 <h1 align="center">Hey, Great to See You Here! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=3498db&lines=Electronics+%26+VLSI+Enthusiast;Pre-Final+Year+ECE+Undergraduate;Passionate+about+Nanoelectronics+%26+Semiconductors;Exploring+Spintronics+%26+Digital+VLSI" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=3498db&lines=VLSI Aspirant;Pre-Final+Year+ECE+Undergraduate;Passionate+About+Chip+Design+%26+Verification;Exploring+Spintronics+%26+Digital+VLSI" />
 </p>
 
 ---
