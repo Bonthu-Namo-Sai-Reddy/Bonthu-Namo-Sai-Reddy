@@ -5,14 +5,15 @@
 <h1 align="center">Hey, Great to See You Here! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=3498db&center=true&vCenter=true&width=500&lines=VLSI+Aspirant;Pre-Final+Year+ECE+Student;Exploring+VLSI+DV+%26+DFT&pause=1000" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=3498db&center=true&vCenter=true&width=500&lines=VLSI+Aspirant;Final+Year+ECE+Student;Exploring+VLSI+DV+%26+DFT&pause=1000" />
 </p>
 
 
 ---
 
 ### 🚀 About Me
-- 🎓 Pre-final Year Undergraduate in **Electronics & Communication Engineering** at **KL University, Hyderabad**  
+- 👨‍💻 **Embedded Systems Intern** at **Pranavation Pvt Ltd, Bengaluru**
+- 🎓 Final Year Undergraduate in **Electronics & Communication Engineering** at **KL University, Hyderabad**  
 - 💡 Passionate about **VLSI Design, Nanoelectronics, Spintronics, and Semiconductor Devices**  
 - 🏆 **1st Place in ROBO RACE** | **3rd Place in Work-A-Thon 2k24**  
 - 📡 Working on **Comparative Analysis of 4:1 MUX using Spintronic Devices**  
