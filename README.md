@@ -5,7 +5,7 @@
 <h1 align="center">Hey, Great to See You Here! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=3498db&center=true&vCenter=true&width=500&lines=VLSI+Aspirant;Final+Year+ECE+Student;Exploring+VLSI+DV+%26+DFT&pause=1000" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=3498db&center=true&vCenter=true&width=500&lines=Final+Year+ECE+Student;Embedded+Systems+Intern&pause=1000" />
 </p>
 
 
@@ -32,9 +32,7 @@
 ---
 
 ### 📬 Connect with Me  
-[![GitHub](https://img.shields.io/badge/GitHub-Bonthu--Namo--Sai--Reddy-181717?style=for-the-badge&logo=github)](https://github.com/Bonthu-Namo-Sai-Reddy)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bonthu%20Namo%20Sai%20Reddy-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bonthu-namo-sai-reddy/)  
-[![Email](https://img.shields.io/badge/Email-namosaireddy0211@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:namosaireddy0211@gmail.com)  
 
 ---
 
