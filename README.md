@@ -14,19 +14,16 @@
 ### 🚀 About Me
 - 👨‍💻 **Embedded Systems Intern** at **Pranavation Pvt Ltd, Bengaluru**
 - 🎓 Final Year Undergraduate in **Electronics & Communication Engineering** at **KL University, Hyderabad**  
-- 💡 Passionate about **VLSI Design, Nanoelectronics, Spintronics, and Semiconductor Devices**  
+- 💡 Passionate about **IoT, Embedded Systems, Spintronics, and Semiconductor Devices**  
 - 🏆 **1st Place in ROBO RACE** | **3rd Place in Work-A-Thon 2k24**  
 - 📡 Working on **Comparative Analysis of 4:1 MUX using Spintronic Devices**  
-- 🛠️ Proficient in **Verilog, Cadence Virtuoso, FPGA Design, and Digital VLSI**  
-- 🌍 Exploring **Cloud Computing (AWS & Azure)** and **ATPG for VLSI Testing**  
 
 ---
 
 ### 🛠️ Skills & Technologies  
-- **Programming:** C, Java  
-- **Hardware Description Languages:** Verilog  
+- **Programming:** C  
 - **EDA Tools:** Cadence Virtuoso, Vivado 2024.1, LTSpice, EasyEDA  
-- **Microcontrollers:** Arduino UNO, ESP32, MSP430  
+- **Microcontrollers:** Arduino UNO, ESP32, MSP430, HOLTEK 8bit HT & BH Series 
 - **Software Tools:** MATLAB, Scilab, NI Multisim, Proteus, Cisco Packet Tracer  
 
 ---
