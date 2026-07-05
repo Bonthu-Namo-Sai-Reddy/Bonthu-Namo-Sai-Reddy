@@ -30,6 +30,7 @@
 
 ### 📬 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bonthu%20Namo%20Sai%20Reddy-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bonthu-namo-sai-reddy/)  
+[![Resume](https://img.shields.io/badge/LinkedIn-Bonthu%20Namo%20Sai%20Reddy-grey?style=for-the-badge&logo=mail)](https://drive.google.com/file/d/17rnsag7sKSGgtLMxDG5MKK1dD2rNw6vf/view?usp=sharing)
 
 ---
 
