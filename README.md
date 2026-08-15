@@ -5,7 +5,7 @@
 <h1 align="center">Hey, Great to See You Here! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=3498db&center=true&vCenter=true&width=500&lines=Final+Year+ECE+Student;Embedded+Systems+Intern&pause=1000" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=3498db&center=true&vCenter=true&width=500&lines=Embedded+Systems+Intern;ECE+Graduate&pause=1000" />
 </p>
 
 
@@ -13,7 +13,7 @@
 
 ### 🚀 About Me
 - 👨‍💻 **Embedded Systems Intern** at **Pranavation Pvt Ltd, Bengaluru**
-- 🎓 Final Year Undergraduate in **Electronics & Communication Engineering** at **KL University, Hyderabad**  
+- 🎓 Graduate in **Electronics & Communication Engineering** at **KL University, Hyderabad**  
 - 💡 Passionate about **Project Management, IoT, Embedded Systems, Spintronics, and Semiconductor Devices**  
 - 🏆 **1st Place in ROBO RACE** | **3rd Place in Work-A-Thon 2k24**  
 - 📡 Working on **Comparative Analysis of 4:1 MUX using Spintronic Devices**  
@@ -22,9 +22,9 @@
 
 ### 🛠️ Skills & Technologies  
 - **Programming:** C  
-- **EDA Tools:** Cadence Virtuoso, Vivado 2024.1, LTSpice, EasyEDA  
+- **EDA Tools:** EasyEDA, LTSpice  
 - **Microcontrollers:** Arduino UNO, ESP32, MSP430, HOLTEK 8bit HT & BH Series 
-- **Software Tools:** MATLAB, Scilab, NI Multisim, Proteus, Cisco Packet Tracer  
+- **Software Tools,IDEs:** HTIDE3000, HOPE5000, Arduino IDE, Code Composer Studio, Proteus
 
 ---
 
