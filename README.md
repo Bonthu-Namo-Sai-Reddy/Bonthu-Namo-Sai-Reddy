@@ -5,14 +5,14 @@
 <h1 align="center">Hey, Great to See You Here! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=3498db&center=true&vCenter=true&width=500&lines=Embedded+Systems+Intern;ECE+Graduate&pause=1000" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=3498db&center=true&vCenter=true&width=500&lines=Embedded+System+Engineer;Embedded+System+engineer&pause=1000" />
 </p>
 
 
 ---
 
 ### 🚀 About Me
-- 👨‍💻 **Embedded Systems Intern** at **Pranavation Pvt Ltd, Bengaluru**
+- 👨‍💻 **Embedded System Engineer** at **Pranavation Pvt Ltd, Bengaluru**
 - 🎓 Graduate in **Electronics & Communication Engineering** at **KL University, Hyderabad**  
 - 💡 Passionate about **Project Management, IoT, Embedded Systems, Spintronics, and Semiconductor Devices**  
 - 🏆 **1st Place in ROBO RACE** | **3rd Place in Work-A-Thon 2k24**  
