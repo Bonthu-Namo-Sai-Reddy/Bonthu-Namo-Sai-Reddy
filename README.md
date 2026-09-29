@@ -5,7 +5,7 @@
 <h1 align="center">Hey, Great to See You Here! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=3498db&center=true&vCenter=true&width=500&lines=Embedded+System+Engineer;Embedded+System+engineer&pause=1000" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=3498db&center=true&vCenter=true&width=500&lines=Embedded+System+Engineer;Embedded+System+Engineer&pause=1000" />
 </p>
 
 
